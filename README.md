@@ -1,5 +1,5 @@
 ## 个人信息
-* 汪鹏波/1993.11（目前在职）
+* 汪鹏波/1993.11
 * 手机/微信：17600108288
 * 邮箱：poberwong@gmail.com
 * GitHub：[https://github.com/poberwong](https://github.com/poberwong)
